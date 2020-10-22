@@ -237,7 +237,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-37X+SMz2M0mC20fhWU8mmtSG1ux53VBHl7LUAmzuFwo=",
+      "hash": "sha256-E339jCMZRFqoU3zX3qdYLTy7H2NOj3C7XKRXLYC18f4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -245,5 +245,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "VnxhSPbU"
+  "version": "LpSEy4wK"
 };
