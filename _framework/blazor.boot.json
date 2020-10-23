@@ -1,5 +1,5 @@
 {
-  "cacheBootResources": false,
+  "cacheBootResources": true,
   "config": [ ],
   "debugBuild": false,
   "entryAssembly": "Temp",
@@ -55,7 +55,6 @@
     "lazyAssembly": null,
     "pdb": null,
     "runtime": {
-      "dotnet.timezones.blat": "sha256-eD1xx9KVSZ9Xc134LY9VKnKHGzf6M2yPGh+GxiRBQw0=",
       "dotnet.wasm": "sha256-sM00FtqUHIlrUdb02MY\/qfdHC8Wj3ZQzQbgAHOGI\/QM=",
       "icudt.dat": "sha256-m7NyeXyxM+CL04jr9ui1Z6pVfMWwhHusuz5qNZWpAwA=",
       "icudt_CJK.dat": "sha256-91bygK5voY9lG5wxP0\/uj7uH5xljF9u7iWnSldT1Z\/g=",

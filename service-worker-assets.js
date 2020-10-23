@@ -69,10 +69,6 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-eD1xx9KVSZ9Xc134LY9VKnKHGzf6M2yPGh+GxiRBQw0=",
-      "url": "_framework\/dotnet.timezones.blat"
-    },
-    {
       "hash": "sha256-sM00FtqUHIlrUdb02MY\/qfdHC8Wj3ZQzQbgAHOGI\/QM=",
       "url": "_framework\/dotnet.wasm"
     },
@@ -277,7 +273,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-omKTqDUvkE5wJDsIb26scBrR2w4cCtqHrRppplDYWuk=",
+      "hash": "sha256-f9950J9Bq1tKuGh2TXzqboZhfVyvEZu1D7X4NZ7ReOM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -285,5 +281,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "vSo9WRf6"
+  "version": "Y08PgjBI"
 };
